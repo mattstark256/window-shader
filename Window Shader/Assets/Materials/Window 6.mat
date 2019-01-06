@@ -24,7 +24,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _CubeDiffuse:
-        m_Texture: {fileID: 8900000, guid: 6d49e0946bc404c4b8c03d910a034d38, type: 3}
+        m_Texture: {fileID: 8900000, guid: ac4ccc1f8a8327b44be2198c45a0f7bf, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -69,6 +69,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _BumpScale: 1
+    - _CubemapCenterOffset: 0
     - _Cutoff: 0.5
     - _Depth: 2
     - _DetailNormalMapScale: 1

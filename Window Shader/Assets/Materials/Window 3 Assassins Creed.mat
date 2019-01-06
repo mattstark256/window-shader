@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Window 7
-  m_Shader: {fileID: 4800000, guid: 571e46b0f441e044e8619053b1523379, type: 3}
+  m_Name: Window 3 Assassins Creed
+  m_Shader: {fileID: 4800000, guid: f8d2887e4d0e2c147b59ed623dced648, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -40,11 +40,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _IndoorTex:
-        m_Texture: {fileID: 2800000, guid: ce6a3dce68558a74083831770db40767, type: 3}
+        m_Texture: {fileID: 2800000, guid: a313fad79fc91154c94577bafdd4d9f3, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 63f7b40586983a44db091bbf485bfef3, type: 3}
+        m_Texture: {fileID: 2800000, guid: d547e1b97aeaf514e88fcaf71c2c3078, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -60,13 +60,13 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SpecularTex:
-        m_Texture: {fileID: 2800000, guid: 83f7d9ccc30ce4a44ba25ac5a22c5974, type: 3}
+        m_Texture: {fileID: 2800000, guid: 89550325e08c7dc4480e6b304e2551be, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _BumpScale: 1
     - _Cutoff: 0.5
-    - _Depth: 2
+    - _Depth: 3
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _GlossMapScale: 1
@@ -76,7 +76,6 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _SigmoidSlope: 2
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
@@ -87,5 +86,5 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _IndoorColor: {r: 0, g: 0, b: 0, a: 1}
-    - _IndoorOffset: {r: 0, g: 0, b: 3, a: 3}
+    - _IndoorOffset: {r: -0.5, g: 0, b: 4, a: 4}
     - _IndoorTint: {r: 1, g: 1, b: 1, a: 1}
