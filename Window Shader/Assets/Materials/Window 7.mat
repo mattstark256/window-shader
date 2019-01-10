@@ -40,7 +40,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _IndoorTex:
-        m_Texture: {fileID: 2800000, guid: ce6a3dce68558a74083831770db40767, type: 3}
+        m_Texture: {fileID: 2800000, guid: 37978f4bb0f2d3447804cc6fe11a237c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:

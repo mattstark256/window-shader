@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Window 6
-  m_Shader: {fileID: 4800000, guid: fdf8f4bb93354b24cb6661740f319cf3, type: 3}
+  m_Name: Window 8
+  m_Shader: {fileID: 4800000, guid: 28dbb32ab664d234d820df3ccad2842a, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -21,10 +21,6 @@ Material:
     m_TexEnvs:
     - _BumpMap:
         m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _CubeDiffuse:
-        m_Texture: {fileID: 8900000, guid: e3deedd014156274d875c2380cc1bcae, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -44,7 +40,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _IndoorTex:
-        m_Texture: {fileID: 2800000, guid: 1a87947f41695964cb41f5c8fa153cad, type: 3}
+        m_Texture: {fileID: 2800000, guid: 37978f4bb0f2d3447804cc6fe11a237c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
@@ -69,7 +65,6 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _BumpScale: 1
-    - _CubemapCenterOffset: 0
     - _Cutoff: 0.5
     - _Depth: 2
     - _DetailNormalMapScale: 1
@@ -81,7 +76,9 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _PlaneDepth: 2
+    - _RoomDepth: 4
+    - _RoomWidth: 2
+    - _SigmoidSlope: 2
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1

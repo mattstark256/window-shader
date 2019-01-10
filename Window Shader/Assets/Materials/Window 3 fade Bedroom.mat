@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Window 3 Bedroom
+  m_Name: Window 3 fade Bedroom
   m_Shader: {fileID: 4800000, guid: cddedc6f8f868af46b8bc7a501d922e6, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
